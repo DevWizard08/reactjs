@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading{
+  color: #2a0656;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: greenyellow;
+margin: 100px 0;
+  
+
+}
+.images{
+  display: flex;
+  justify-content: center;
+
+}
+.images img{
+ 
+  width: 300px;
+  height: 250px;
+  
+
+}
